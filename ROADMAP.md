@@ -37,7 +37,7 @@ numbers refer to the upstream repository; each item names the priority it serves
 1. **Drop-in follow-up** (P3): decide whether to raise a repair issue that points users of the
    original at the import once this integration is running. (The import itself was verified end to
    end on a real Home Assistant, with the original installed and then removed, on 2026-11-24.)
-2. **Pre-releases in 1.0.x**: merge fork PRs #22, #28 and #50 (above) as owners confirm them.
+2. **Pre-releases in 1.0.x**: merge fork PRs #22 and #28 (above) as owners confirm them.
 
 ## Since 1.0.0
 
